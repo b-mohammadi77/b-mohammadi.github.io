@@ -31,52 +31,36 @@ photo link
 
 ---
 <ol>
-<li> </li>
-<li> </li>
+<li>diploma : Sa'adi highschool_2015 </li>
 </ol>
 
 ### Favorites
 
 ---
 <ol>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
+  <li> Cooking</li>
+  <li> music</li>
+  <li> makeup</li>
 </ol>
 
 ### Speaking language
 
 ---
 <ol> 
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-</ol>
-
-### programing language
-
----
-<ol>
- <li> </li>
- <li> </li>
- <li> </li>
- <li> </li>
- <li> </li>
- <li> </li>
- <li> </li>
- <li> </li>
+  <li> Persian</li>
+  <li> English</li>
+  <li> French</li>
+  <li> Turkish</li>
 </ol>
 
 ### working Experience
 
 ---
 <ol>
-  <li> </li>
+  <li> Cashier</li>
 </ol>
 
-### [contact with me]()
+### [contact with me](behnaz.m18@gmail.com)
 
 
 --- 
