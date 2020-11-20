@@ -8,7 +8,7 @@ body{
 }
 </style>
 ### بهناز محمدی
-لینک عکس
+<a href="https://uupload.ir/view/mdax_pic.jpeg" target="_blank"><img src="https://uupload.ir/files/mdax_pic_thumb.jpeg" border="0" alt="آپلود عکس" /></a>
 
 ### اطلاعات شخصی
 
